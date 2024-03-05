@@ -55,7 +55,7 @@ export default function Header() {
 
 
 ```
-#Footer Component
+# Footer Component
 ```
 export default function Footer() {
     return (
@@ -218,7 +218,7 @@ export default function Footer() {
 }
 
 ```
-#Home component
+# Home component
 ```
 export default function Home() {
     return (
@@ -265,7 +265,7 @@ export default function Home() {
 }
 
 ```
-#About Component
+# About Component
 ```
 export default function About() {
     return (
@@ -298,7 +298,7 @@ export default function About() {
     );
 }
 ```
-#Contact us component
+# Contact us component
 ```
 export default function Contact() {
     return (
