@@ -2,7 +2,7 @@
 # header component
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-```
+```react
 export default function Header() {
     return (
         <header className="shadow sticky z-50 top-0">
